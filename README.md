@@ -23,6 +23,8 @@ Displays live prices for a watchlist of tickers.
 venv\Scripts\python monitor.py
 ```
 
+Or double-click `run.bat` to open in a new Windows Terminal tab.
+
 Example output:
 
 ```
@@ -63,6 +65,8 @@ date,ticker,action,shares,price,commission
 ```bash
 venv\Scripts\python portfolio.py
 ```
+
+Or double-click `portfolio.bat` to open in a new Windows Terminal tab.
 
 Example output:
 
