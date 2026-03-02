@@ -4,7 +4,7 @@ from colorama import Fore, Style, init
 
 init(autoreset=True)
 
-TICKERS = ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "TSLA", "META"]
+TICKERS = ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "TSLA", "META", "RDDT", "U", "DUOL", "PLTR"]
 
 
 def colorize(text: str, price: float, open_: float) -> str:
